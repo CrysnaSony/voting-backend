@@ -8,6 +8,39 @@ Backend of a Voting system created with Node.Js, Express, MongoDB. Architecture 
   - Give vote 
   - Get Vote statistics
   
+#Installation
+
+
+Clone the repo:
+
+```bash
+git clone CrysnaSony/voting-backend.git
+cd voting-backend
+```
+
+Install the dependencies:
+
+```bash
+yarn install
+```
+
+Set the environment variables:
+
+```bash
+cp .env.sample .env
+
+# open .env and modify the environment variables
+```
+
+
+## Commands
+
+Running locally:
+
+```bash
+npm run dev
+```
+
 ### API Endpoints
 
 List of available routes:
