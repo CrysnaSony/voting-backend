@@ -1,4 +1,4 @@
-# voting-backend
+# Voting-Backend
 
 Backend of a Voting system created with Node.Js, Express, MongoDB. Architecture supports multiple instance of Node.Js using Cluster and used caching for quick responses.
 
